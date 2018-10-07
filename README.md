@@ -1,2 +1,3 @@
 # Gauravkumar9923.github.io
-static website
+THIS IS MY FIRST PROJECT.
+THIS IS STATIC E-COMMERCE WEBSITE.
